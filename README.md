@@ -38,6 +38,6 @@ Here's a list of the important source files in this MERN (MongoDB, Express.js, R
 - Provides a form to create or update a movie.
 - Handles form submission and sends data to the backend.
 
-### 6.	src/components/MoviesBefore1998.js
+### 6.	[src/components/MoviesBefore1998.js](frontend/src/components/MoviesBefore1998.js)
 - Displays a list of movies released before 1998.
 - Fetches and renders movies that match the query.
